@@ -3,7 +3,7 @@ joblib==0.13.2
 Keras==2.2.5
 matplotlib==3.1.1
 nltk==3.4.5
-numpy==1.17.4
+numpy==1.22.0
 pandas==0.25.1
 requests==2.21.0
 requests-html==0.10.0
